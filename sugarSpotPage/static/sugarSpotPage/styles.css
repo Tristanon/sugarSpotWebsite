@@ -1,14 +1,15 @@
 body, html {
-    background-color: white;
     height: 100%;
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
 }
 
 .SugarSpot-container {
-    min-height: 100%; /* Ensure the container takes at least the full height of the viewport */
+    min-height: 100vh; /* Ensure the container takes at least the full height of the viewport */
     display: flex;
     flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
     background-image: url('https://i.postimg.cc/gcKM8D9k/background.png');
     background-size: cover; /* Scale the image proportionally to cover the entire container */
     background-position: center; /* Center the background image */
@@ -19,13 +20,13 @@ code {
     white-space: pre;
 }
 
-h1 {
-    margin-top: 0px;
-    padding-top: 20px;
+.title{
+    text-align: center;
 }
 
-.title{
-    border: 1px solid black;
+.title h1 {
+    color: white;
+    display: inline-block;
 }
 
 .main {
@@ -46,7 +47,4 @@ h1 {
 
 .sidebar h2 {
     margin-top: 5px;
-}
-.SugarSpot-container{
-    
 }
