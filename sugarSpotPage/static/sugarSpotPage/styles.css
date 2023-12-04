@@ -14,6 +14,8 @@ body, html {
     background-size: cover; /* Scale the image proportionally to cover the entire container */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Do not repeat the background image */
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    border: 1px solid #000;
 }
 
 code {
@@ -27,6 +29,17 @@ code {
 .title h1 {
     color: white;
     display: inline-block;
+    font-family: Neonderthaw;
+    text-shadow: 0px 0px 25px #D230DD, 0px 0px 25px #D230DD, 0px 0px 25px #D230;
+    font-size: 130px;
+}
+
+.comming-text h2{
+    color: lightgray;
+}
+
+.contact-info h3{
+    color: lightgray;
 }
 
 .main {
