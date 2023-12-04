@@ -9,7 +9,7 @@ body, html {
     min-height: 100%; /* Ensure the container takes at least the full height of the viewport */
     display: flex;
     flex-direction: column;
-    background-image: url('https://i.postimg.cc/gcKM8D9k/background.png');
+    background-image: url('https://private-user-images.githubusercontent.com/106542253/287508179-50a7541a-e794-4feb-a09a-f1652fa89a0f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE1OTU4ODYsIm5iZiI6MTcwMTU5NTU4NiwicGF0aCI6Ii8xMDY1NDIyNTMvMjg3NTA4MTc5LTUwYTc1NDFhLWU3OTQtNGZlYi1hMDlhLWYxNjUyZmE4OWEwZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwM1QwOTI2MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOTUwYmQzZTc4M2YyM2VhMTI0NDkzY2NjZTUyM2Y3Mzk3ZmViOGUyZjhlNTIxYzIwNzk1ODk2ODE5YWU4NjhjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.k0A_r6fzSHJy_Xj-U2jLHyFtiNT7MAAGm3PNU2U-kAY');
     background-size: cover; /* Scale the image proportionally to cover the entire container */
     background-position: center; /* Center the background image */
     background-repeat: no-repeat; /* Do not repeat the background image */
